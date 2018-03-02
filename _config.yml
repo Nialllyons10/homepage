@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
     
   skill_icon2:
     - name: fa-linux
-  desc: A human trying to solve problems using technology.  # Describe yourself.
+  desc: Trying to reimagine the future...  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

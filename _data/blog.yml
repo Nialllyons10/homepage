@@ -4,19 +4,19 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: C#
-  href: /CSharp/
+  href: /c#/
 
 - name: Javascript
-  href: /Javascript/
+  href: /javascript/
 
 - name: Front End
-  href: /FrontEnd/
+  href: /frontEnd/
 
 - name: Database
   href: /database/
 
 - name: Azure
-  href: /Azure/
+  href: /azure/
 
 - name: Life
   href: /life/
