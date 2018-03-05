@@ -4,7 +4,7 @@ title:  "How to Change HTTP Browser Cache Size"
 date:   2018-02-28
 desc: "How to Change HTTP Browser Cache Siz"
 keywords: "HTML,Cache,Browser,website"
-categories: [HTML]
+categories: [frontend, HTML]
 tags: [HTML,Cache,Browser]
 icon: icon-html
 ---
